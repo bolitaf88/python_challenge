@@ -14,7 +14,7 @@ I had to redownload the excel file before successfully completing the
 assignment to give me accurate figures.
 
 PyPoll challenge: based on our analysis, Diana Degette is projected to win 
-the next elections garnering about 73.812% of the votes, giving 
+the state elections garnering about 73.812% of the votes, giving 
 her a land slide victory. Her closest competitor Mr. Charles Stockham 
 got 23.049% of the votes, while Raymon Doane got just 3.139% of votes. while 
 we don't rule out some slight flaws in the electoral process, these results 
