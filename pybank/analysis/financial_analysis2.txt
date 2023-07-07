@@ -1,0 +1,8 @@
+
+Financial Analysis
+------------------------------
+Total Months: 86
+total Profit: $22564198
+Avg Change: $8213.46511627907
+Grtest Inc in P: Aug-16 ($1862002)
+Grtest dec in p: Feb-14 ($-1825558)
